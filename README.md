@@ -40,7 +40,7 @@ Docker & Docker Compose
 📦 Setup Instructions
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/notification-service.git
+git clone https://github.com/AdityaM2205/notification-service.git
 cd notification-service
 2. Install Dependencies
 bash
